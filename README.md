@@ -1,5 +1,8 @@
 # Pathfinding Visualizer
+
 ### TODO
+
+#### Contexts
 - [x] Pathfinding Context
 - [x] Tile Context
-- [ ] Speed Context
+- [x] Speed Context
