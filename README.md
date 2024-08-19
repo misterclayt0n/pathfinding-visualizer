@@ -1,5 +1,5 @@
 # Pathfinding Visualizer
 ### TODO
-- [ ] Pathfinding Context
-- [ ] Tile Context
+- [x] Pathfinding Context
+- [x] Tile Context
 - [ ] Speed Context
